@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg))]()
 
 <h1 align="center">Hi 👋, I'm Punit Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
