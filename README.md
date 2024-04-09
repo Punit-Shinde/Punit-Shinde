@@ -1,46 +1,88 @@
+# Hi there, I'm Punit 👋
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_423_752/0/1679867911154?e=1710979200&v=beta&t=Nv_aKQoWXKXkup31zj9CoGdMxjsWcZWp-YcZcJyQJjU)]
+## Welcome to my GitHub Profile!
 
-  
+![gif](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
-<h1  align="center">Hi 👋, I'm Punit Shinde</h1>
+I'm a passionate MERN Stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating seamless user experiences, whether it’s building dynamic web applications or crafting robust mobile apps using React Native. My code is a blend of creativity, efficiency, and clean architecture.
 
-<h3  align="center">A passionate full-stack  developer from India</h3>
+- 🌱 I’m currently expanding my portfolio with a variety of projects. 
+- 📖 I’m currently learning more about advanced React patterns, backend architecture and react-native development.
+- 👯 I’m looking to collaborate on open-source projects and innovative startup ideas.
+- 🤔 I’m looking for help with diving deeper into cloud technologies.
+- 🔍 Feel free to explore my repositories and connect with me! 
+- 📫 How to reach me: punitshinde1@gmail.com
 
-<img  align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🌐 Languages and Frameworks
 
-<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=punit-shinde&label=Profile%20views&color=0e75b6&style=flat"  alt="punit-shinde"  />  </p>
+### 💻 Front-End:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Syncfusion](https://img.shields.io/badge/-Syncfusion-FF496C?style=for-the-badge&logo=syncfusion&logoColor=white)
 
-<h3  align="left">Connect with me:</h3>
+### 🖥 Back-End:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&label=&color=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p  align="left">
+### 📱 Mobile Development:
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-<a  href = "mailto: punitshinde1@gmail.com"  target="_blank"  rel="noreferrer">punitshinde1@gmail.com</a>
+### 🛠 Tools & Technologies
 
-<a  href = "https://www.linkedin.com/in/punit-shinde/"  target="_blank"  rel="noreferrer">Linkedin</a>
-<a  href = "https://www.behance.net/punitshinde"  target="_blank"  rel="noreferrer">Bihance</a>
-</p>
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-<h3  align="left">Languages and Tools:</h3>
 
-<p  align="left">
+### 🎨 UI/UX Design
 
-<a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>  </a><a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a><a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a><a  href="https://getbootstrap.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/>  </a><a  href="https://redux.js.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"/>  </a><a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind"  width="40"  height="40"/>  </a><a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="40"  height="40"/>  </a><a  href="https://sass-lang.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="sass"  width="40"  height="40"/>  </a>
+#### Design Tools:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<a  href="https://www.mongodb.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb"  width="40"  height="40"/>  </a><a  href="https://expressjs.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express"  width="40"  height="40"/>  </a><a  href="https://nodejs.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="40"  height="40"/>  </a><a  href="https://www.php.net"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php"  width="40"  height="40"/>  </a><a  href="https://firebase.google.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  alt="firebase"  width="40"  height="40"/>  </a><a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/>  </a><a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>
+### 👩‍💻 Programming Languages:
 
-  
-  
-  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a  href="https://code.visualstudio.com/"  target="_blank"  rel="noreferrer">  <img  src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://git-scm.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://github.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://httpd.apache.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/apache.png"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://www.figma.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  alt="figma"  width="40"  height="40"/>  </a><a  href="https://www.photoshop.com/en"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  alt="photoshop"  width="40"  height="40"/>  </a>
-</p>
+### 💼 Productivity Tools
 
-  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Filmora](https://img.shields.io/badge/-Filmora-339933?style=for-the-badge&logo=filmora&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<p><img  align="center
-"  src="https://github-readme-stats.vercel.app/api/top-langs?username=punit-shinde&show_icons=true&locale=en&layout=compact"  alt="punit-shinde"  /></p>
+#### Skills:
+- Wireframing and Prototyping
+- User Research and Testing
+- Information Architecture
+- Visual Design and Branding
+- Image/Video Editing
+- Responsive Design Principles
+- Accessibility Standards
 
-  
+## 📫 Connect with Me:
 
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=punit-shinde&show_icons=true&locale=en"  alt="punit-shinde"  /></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/punit-shinde/)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/punitshinde)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://punit-shinde.github.io/Portfolio-Vite/)
+
+#### 🚀 Let's collaborate and innovate together! I'm eager to connect with individuals who share my passion for technology, design, and making a positive impact. Feel free to reach out via email 📩, and let's turn our ideas into reality! 💡
+
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punitshinde1@gmail.com)
+
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=003140&label=&color=47A248)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
