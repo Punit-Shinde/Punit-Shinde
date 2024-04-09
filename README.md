@@ -80,9 +80,3 @@ I'm a passionate MERN Stack developer with expertise in MongoDB, Express.js, Rea
 #### 🚀 Let's collaborate and innovate together! I'm eager to connect with individuals who share my passion for technology, design, and making a positive impact. Feel free to reach out via email 📩, and let's turn our ideas into reality! 💡
 
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punitshinde1@gmail.com)
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=003140&label=&color=47A248)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
