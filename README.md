@@ -77,6 +77,10 @@ I'm a passionate MERN Stack developer with expertise in MongoDB, Express.js, Rea
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/punitshinde)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://punit-shinde.github.io/Portfolio-Vite/)
 
+### 👋 Feel free to visit my portfolio to explore more about my projects and skills 💻
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9C%A8-9cf?style=for-the-badge&logo=react&logoColor=white)](https://punit-shinde.github.io/Portfolio-Vite/)
+
 #### 🚀 Let's collaborate and innovate together! I'm eager to connect with individuals who share my passion for technology, design, and making a positive impact. Feel free to reach out via email 📩, and let's turn our ideas into reality! 💡
 
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punitshinde1@gmail.com)
