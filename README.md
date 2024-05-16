@@ -2,8 +2,6 @@
 
 ## Welcome to my GitHub Profile!
 
-![gif](coder.gif)
-
 I'm a passionate MERN Stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating seamless user experiences, whether it’s building dynamic web applications or crafting robust mobile apps using React Native. My code is a blend of creativity, efficiency, and clean architecture.
 
 - 🌱 I’m currently expanding my portfolio with a variety of projects. 
